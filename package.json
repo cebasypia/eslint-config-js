@@ -1,6 +1,6 @@
 {
   "name": "@cebasypia/eslint-config-js",
-  "version": "0.1.0-",
+  "version": "0.1.0",
   "description": "Shared eslint config for JavaScript",
   "main": "index.js",
   "publishConfig": {
